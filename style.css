@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+p{
+    color: white;
+}
+
+li{
+    color: white ;
+}
+
+.h1{
+    color: gray ;
+}
+
+ h2{
+    color: gray ;
+}
+
+h3{
+    color: gray ;
+}
+
+main{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    box-shadow: 5px, 5px, 15px ;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
