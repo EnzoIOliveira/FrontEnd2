@@ -1,0 +1,28 @@
+
+
+.treze {
+    border: 1px, solid, black;
+    font-style: arial;
+}
+
+.itens {
+    border: 1px, solid, black;
+    text-align:center;
+    font-style: arial;
+    
+}
+
+.Pr {
+    border: 1px, solid, black;
+    background-color: #4D9D17;
+    color: white;
+    font-style: arial;
+}
+
+#intervalo {
+    border: 1px, solid, black;
+    text-align:center;
+    font-weight: bold;
+    font-style: arial;;
+
+}

@@ -67,3 +67,17 @@ header h1 {
     color: #00308F;
 }
 
+.Tabela {
+    border: 1px solid black;
+
+
+
+}
+
+#TblInt {
+    width: 300px;
+    border-collapse: collapse;
+    border: "1px solid black;
+
+
+}
