@@ -1,9 +1,81 @@
-#header {
-    background-color: red;
-    width: 100%;
-    height: 3%;
-    
-
-
-
+#divheader {
+   background-color: #00B1C9;
+   color: white;
+   text-align: center;
+   width: 2000px;
+   height: 125px;
 }
+
+#header {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 35px;
+    padding-top: 2%;
+}
+
+#img {
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 5%;
+    display: flex;
+}
+
+#imgMS {
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 5%;
+    display: flex;
+}
+
+#imgMC {
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 5%;
+    display: flex;
+}
+
+#imgBD {
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 5%;
+    display: flex;
+}
+
+.texto {
+    font-size: 27px;
+}
+
+.conteudo {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px;
+  }
+
+  #navigation {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    background-color: gainsboro;
+    text-align: center;
+    padding: 10px;
+    justify-content: center;
+    z-index: 10;
+  }
+
+  .nava {
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    transition: color 0.5s ease;
+  }
+
+  .nava:hover {
+    color: pink;
+  }
