@@ -11,6 +11,7 @@
     font-style: italic;
     font-size: 35px;
     padding-top: 2%;
+    color: white;
 }
 
 #img {
@@ -98,6 +99,11 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       transition: background 0.3s;
     }
-
-
   
+#footer {
+    background-color: gainsboro;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 35px; 
+}
